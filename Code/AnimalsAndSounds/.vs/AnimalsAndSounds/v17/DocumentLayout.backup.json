@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ben Pease\\Desktop\\GitHub\\Homework 5\\Homework-5\\Assignemnt1\\AnimalsAndSounds\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1CFBF3-E941-41A9-8CEC-A8722D6A6BAE}|AnimalsAndSounds.csproj|c:\\users\\ben pease\\desktop\\github\\homework 5\\homework-5\\assignemnt1\\animalsandsounds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC1CFBF3-E941-41A9-8CEC-A8722D6A6BAE}|AnimalsAndSounds.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ben Pease\\Desktop\\GitHub\\Homework 5\\Homework-5\\EmployeesAndSpecializations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesAndSpecializations.cs",
+              "DocumentMoniker": "C:\\Users\\Ben Pease\\Desktop\\GitHub\\Homework 5\\Homework-5\\EmployeesAndSpecializations.cs",
+              "RelativeDocumentMoniker": "..\\..\\EmployeesAndSpecializations.cs",
+              "ToolTip": "C:\\Users\\Ben Pease\\Desktop\\GitHub\\Homework 5\\Homework-5\\EmployeesAndSpecializations.cs",
+              "RelativeToolTip": "..\\..\\EmployeesAndSpecializations.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T00:59:35.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ben Pease\\Desktop\\GitHub\\Homework 5\\Homework-5\\Assignemnt1\\AnimalsAndSounds\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ben Pease\\Desktop\\GitHub\\Homework 5\\Homework-5\\Assignemnt1\\AnimalsAndSounds\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T00:50:18.454Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
